@@ -1,0 +1,11 @@
+n=100 m=1 p=0.5 mean_starting_balance=100 num_transactions=1000
+100: success rate: 0.94
+200: success rate: 0.98
+300: success rate: 0.94
+400: success rate: 0.95
+500: success rate: 0.92
+600: success rate: 0.97
+700: success rate: 0.96
+800: success rate: 0.94
+900: success rate: 0.92
+1000: success rate: 0.97
